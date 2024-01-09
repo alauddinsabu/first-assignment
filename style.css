@@ -9,7 +9,6 @@ body {
     height: 600px;
     border-radius: 16px;
     
-
 }
 
 .celebration{
@@ -163,8 +162,12 @@ line-height: 25px;
 
 .address {
     display: flex;
+    
 }
 
 .inside{
-    left: 100px;
+    margin-left: 25%;
+}
+.house{
+    margin-right: 25%;
 }
