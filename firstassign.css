@@ -1,0 +1,170 @@
+body {
+    margin:0px;
+    padding: 0px;
+}
+
+.header{
+    background-image: url('./B9A1-New-Year-New-Mission-main/resources/Banner.png');
+    width: 1300px;
+    height: 600px;
+    border-radius: 16px;
+    
+
+}
+
+.celebration{
+    font-size: 72px;
+    text-align: center;
+    padding-top: 0px;
+}
+h6{
+    color: #f0dede;
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 0px;
+}
+
+.offer{
+     color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0px;
+
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0px;
+}
+
+.category{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 0px;
+}
+
+.image {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.midnight{
+    background-image: url('./B9A1-New-Year-New-Mission-main/resources/Vectorrr.png');
+    width: 100%;
+    height: 300px;
+    margin: 40px 40px;
+
+}
+
+.Welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 50px; /* 137.5% */
+margin-top: 200px;
+margin-bottom: 0px;
+padding-left: 80px;
+}
+
+.para{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px; /* 166.667% */
+    padding-left: 80px;
+}
+.join{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-left: 100px;
+}
+.place{
+    background-color: rgba(245, 186, 235, 0.849);
+    height: 200px;
+}
+
+.design{
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 40px;
+}
+.red{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-weight: 400;
+line-height: 25px; 
+}
+
+.newsletter{
+    margin-top: 50px;
+    background-color: rgba(238, 178, 223, 0.678);
+    width:1300px;
+    margin-bottom: 50px;
+}
+
+.mail{
+    margin-left: 45%;
+    margin-right: 25%;
+}
+
+.sub{
+    text-align: center;
+}
+
+.subscribe {
+    display: flex;
+}
+
+
+.button{
+    width: 400px;
+    height: 32px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 30px 0px 0px 30px;
+    margin-left: 35%;
+    margin-right: 0px;
+}
+.subs{
+    background-color: #F00;
+    width: 100px;
+    height: 32px;
+    margin-right: 60%;
+    border: none;
+    border-radius: 0px 30px 30px 0px;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+.copy{
+    background-color: rgb(56, 6, 90);
+    width: 1300px;
+}
+
+.address {
+    display: flex;
+}
+
+.inside{
+    left: 100px;
+}
