@@ -8,6 +8,9 @@ body {
     width: 1300px;
     height: 600px;
     border-radius: 16px;
+    margin-top: 0px;
+    padding: 0px
+    ;
     
 }
 
@@ -167,7 +170,18 @@ line-height: 25px;
 
 .inside{
     margin-left: 25%;
+    color: #f0dede;
 }
 .house{
     margin-right: 25%;
+    color: #f0dede;
+}
+.platform{
+    margin-left: 35%;
+    margin-right: 25%;
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    color: #f0dede;
 }
